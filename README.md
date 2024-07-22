@@ -1,4 +1,4 @@
-# bzmb-snowflakesql
+# bzmb-he
 
 A [bzBond-server](https://github.com/beezwax/bzBond/tree/main/packages/bzBond-server#bzbond-server) microbond to encode and decode html using with the he npm package (https://www.npmjs.com/package/he).
 
